@@ -19,7 +19,7 @@ from aiogram.filters import Command
 from aiogram.types import CallbackQuery, FSInputFile, Message
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-QUESTIONS_IN_TEST = 10
+QUESTIONS_IN_TEST = 30
 BASE_DIR = Path(__file__).resolve().parent
 
 # ---------------------------------------------------------------- ДАННЫЕ ---
